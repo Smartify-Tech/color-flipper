@@ -13,3 +13,7 @@ It is a simple web page that changes it's background color when a button a click
 2. Styling website using css
 3. Responsiveness using media querries
 4. Javascript Event listener.
+
+### Note:
+Visit the web page here: https://smartify-tech.github.io/color-flipper/index.html 
+Feel free to give me a feeback.
